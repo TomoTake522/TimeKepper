@@ -1,1 +1,8 @@
+# GASの設定ファイル
 .clasp.json
+
+# Macのシステムファイル
+.DS_Store
+
+# Node.jsのライブラリ
+node_modules/
